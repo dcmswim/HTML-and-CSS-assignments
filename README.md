@@ -10,7 +10,9 @@
  This is mainly more practice with form submission.
  
  Bootstrap4:
- This was an exercise in utilizing Bootstrap to create a basic webpage.
+ This was an exercise in utilizing code from Bootstrap to create a basic webpage.
+ 
+ There are also various html files that were created while watching instructional videos from The Tech Academy. 
  
  
  
